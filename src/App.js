@@ -44,7 +44,7 @@ export default function App() {
 }
 
 function Home() {
-  return <h2>Home</h2>;
+  return <h2>Home tyest</h2>;
 }
 
 function About() {
